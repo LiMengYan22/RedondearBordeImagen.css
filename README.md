@@ -1,2 +1,2 @@
 # RedondearBordeImagen.css
-Borde de imagen redondo.
+Borde de imagen redondo en CSS.
